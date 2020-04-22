@@ -22,7 +22,6 @@ For this project, I was interestested in using CardioGoodFitness.csv to:
 ## File Descriptions <a name="files"></a>
 
 
-File Descriptions
 There is only one notebook available here to showcase work related to the above questions. Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title. Markdown cells were used to assist in walking through the thought process for individual steps.
 
 
